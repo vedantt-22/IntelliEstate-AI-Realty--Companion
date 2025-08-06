@@ -1,7 +1,4 @@
-## 📄 `README.md` for IntelliEstate – AI Realty Companion
-
-```markdown
-# 🏡 IntelliEstate – AI Realty Companion
+## 🏡 IntelliEstate – AI Realty Companion
 
 **IntelliEstate** is an AI-powered real estate analysis and prediction platform that helps users explore, understand, and make informed decisions about property investments in India. It provides intelligent tools for price prediction, trend visualization, recommendation, and insights — all powered by machine learning, data analysis, and interactive visualizations.
 
@@ -9,14 +6,14 @@
 
 ## 🚀 Features
 
-- 🔍 **Price Prediction Module** – Predict property prices using trained machine learning models.
-- 📊 **Analytical Dashboard** – Explore trends, correlations, and insights through interactive plots and charts.
-- 🤝 **Recommendation Engine** – Suggests properties based on user preferences using similarity-based filtering.
-- 🧹 **Data Cleaning Pipelines** – Handles outliers, missing values, and noisy data efficiently.
-- 📈 **EDA & Feature Engineering** – Visualize univariate, bivariate, and multivariate relationships.
-- 🌐 **Web Scraping Utilities** – Extract raw listings data from real estate portals.
-- 🧠 **Model Selection & Evaluation** – Multiple regression models with evaluation metrics and visual comparison.
-- 🧾 **Streamlit Frontend** – Simple and responsive UI to interact with the platform.
+- 🔍 Price Prediction Module – Predict property prices using trained machine learning models.
+- 📊 Analytical Dashboard – Explore trends, correlations, and insights through interactive plots and charts.
+- 🤝 Recommendation Engine – Suggests properties based on user preferences using similarity-based filtering.
+- 🧹 Data Cleaning Pipelines – Handles outliers, missing values, and noisy data efficiently.
+- 📈 EDA & Feature Engineering – Visualize univariate, bivariate, and multivariate relationships.
+- 🌐 Web Scraping Utilities – Extract raw listings data from real estate portals.
+- 🧠 Model Selection & Evaluation – Multiple regression models with evaluation metrics and visual comparison.
+- 🧾 Streamlit Frontend – Simple and responsive UI to interact with the platform.
 
 ---
 
@@ -61,6 +58,7 @@ IntelliEstate/
 ## 🔍 Usage
 
 ### 📦 1. Clone the Repository
+
 ```bash
 git clone https://github.com/vedantt-22/IntelliEstate---AI-Realty-Companion.git
 cd IntelliEstate---AI-Realty-Companion
@@ -99,4 +97,5 @@ streamlit run main.py
 ---
 📄 License
 This project is licensed under the Vedant Karekar.
+
 
